@@ -46,6 +46,7 @@
     <Compile Include="..\..\..\..\Desktop\aula31\Program.cs">
       <Link>Program.cs</Link>
     </Compile>
+    <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
